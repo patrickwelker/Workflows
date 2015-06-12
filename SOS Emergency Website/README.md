@@ -30,7 +30,7 @@ With this workflow you can create an emergency website with minimal effort on yo
     - two buttons for opening the address in Google Maps or Apple Maps on the iPhone.
 - After the website is online, you have the option to append additional images. You can select these from you photo library or take them with your iPhone camera.
 - Support for localization so that you can build the website in your native language
-    - Check the local folder in this repository to see if your language is supported. Feel free to submit translations for languages that aren't supported yet.
+    - Check the `local` folder in this repository to see if your language is supported. Feel free to submit translations for languages that aren't supported yet.
 
 ## Install
 
@@ -70,5 +70,6 @@ SOS – Emergency Website by Patrick Welker is licensed under a [Creative Common
 [affiliate link]: https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8&uo=4&at=10l8771&ct=github
 [cover]: http://rocketink.net/uploads/2015/2015-06-12-youtube-cover.jpg
 [youtube]: https://www.youtube.com/watch?v=OjrJ6FEBkwM&feature=youtu.be
-[workflow]: https://github.com/pattulus/Workflows/raw/master/SOS%20Emergency%20Website/Emergency%20Website.wflow
+[workflow-github]: https://github.com/pattulus/Workflows/raw/master/SOS%20Emergency%20Website/Emergency%20Website.wflow
+[workflow]: https://workflow.is/workflows/5c6f208d351b449684710cdc1464282a
 [ICE]: https://en.wikipedia.org/wiki/In_case_of_emergency
